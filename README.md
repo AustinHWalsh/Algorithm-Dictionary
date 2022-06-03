@@ -1,1 +1,1 @@
-# algorithmDictionary
+# Algorithm-Dictionary
