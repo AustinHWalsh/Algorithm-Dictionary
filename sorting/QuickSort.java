@@ -49,7 +49,7 @@ public class QuickSort implements Sort {
                    + "The algorithm chooses a random element in the array as a pivot\n"
                    + "and partitions the rest of the array round that pivot\n"
                    + "Time Complexity: O(nlogn)\n"
-                   + "Space Complexity: O(n)\n";
+                   + "Space Complexity: O(1)\n";
         System.out.println(out);
     }
     
