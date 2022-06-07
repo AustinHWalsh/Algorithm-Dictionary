@@ -35,4 +35,7 @@ public class SelectionSort implements Sort {
         System.out.println(out);
     }
 
+    /*
+     * Good for: in-place, simplicity
+     */
 }

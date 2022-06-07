@@ -36,4 +36,8 @@ public class BubbleSort implements Sort {
         System.out.println(out);
     }
     
+    /*
+     * Good for: simplicity, in-place, stable
+     */
+
 }

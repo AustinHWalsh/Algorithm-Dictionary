@@ -98,5 +98,9 @@ public class MergeSort implements Sort {
             System.out.print(arr[i] + " ");
         System.out.println();
     }
+
+    /*
+     * Good for: speed, linked lists because of O(1) insertion, stable
+     */
     
 }

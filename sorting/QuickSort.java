@@ -52,5 +52,9 @@ public class QuickSort implements Sort {
                    + "Space Complexity: O(1)\n";
         System.out.println(out);
     }
+
+    /*
+     * Good for: speed, arrays due to in-place, 
+     */
     
 }
