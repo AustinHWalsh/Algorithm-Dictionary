@@ -27,8 +27,8 @@ public class BinarySearch implements Search {
         String out = "Binary search is a recursive searching algorithm\n"
                    + "It checks the middle element of an array and determines if the specified element is higher, lower or the same\n"
                    + "It then either looks through the higher/lower section or returns it if it is equal\n"
-                   + "Time Complexity: O(n+k) where k is range of input\n"
-                   + "Space Complexity: O(n+k)\n";
+                   + "Time Complexity: O(nlogn)\n"
+                   + "Space Complexity: O(1)\n";
         System.out.println(out);
     }
 
