@@ -32,8 +32,12 @@ public class BFS implements GraphSearch {
 
     @Override
     public void printDetails() {
-        // TODO Auto-generated method stub
-        
+        String out = "Breadth-first search is a graph traversal algorithm\n"
+                   + "It moves through a graph by finding all edges between the current node\n"
+                   + "It then moves to one of those edges and repeats until all nodes are visited\n"
+                   + "Time Complexity: O(v + e)\n"
+                   + "Space Complexity: O(v)\n";
+        System.out.println(out);
     }
     
 }

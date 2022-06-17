@@ -21,7 +21,7 @@ public class DictionaryHead {
         // g.printGraph();
 
         System.out.print("Traversal of graph from node: ");
-        GraphSearch s = new BFS();
+        GraphSearch s = new DFS();
         s.search(g, 2);
     }
 
